@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+
 
 ## Features
 
@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
-- Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
+- Your Name : Venkata Karthik Venna
+- Email: venkatakarthikvenna@gamil.com
 
 ---
 
