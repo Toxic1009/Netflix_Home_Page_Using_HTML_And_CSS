@@ -5,8 +5,6 @@ This repository contains the code for building a Netflix-inspired home page usin
 ## Preview
 ![Screenshot (11)](https://github.com/VenkataKarthik05/Home_Page_Of_Netflix/assets/143409030/ea45ced8-1340-4afe-86e7-0a814c0729d7)
 
-
-
 ## Features
 
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
@@ -29,10 +27,6 @@ https://github.com/VenkataKarthik05/Netflix_Home_Page_Using_HTML_And_CSS.git
 3. Launch the `index.html` file in a web browser to view the Netflix home page.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
