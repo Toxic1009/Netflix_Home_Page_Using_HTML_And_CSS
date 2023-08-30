@@ -3,7 +3,7 @@
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
 ## Preview
-https://github.com/VenkataKarthik05/Netflix_Home_Page_Using_HTML_And_CSS.git
+
 
 
 ## Features
@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
+https://github.com/VenkataKarthik05/Netflix_Home_Page_Using_HTML_And_CSS.git
 ```
 
 2. Open the project in your preferred code editor.
